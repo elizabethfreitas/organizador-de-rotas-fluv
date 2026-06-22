@@ -117,5 +117,7 @@ Borba - 40 km - 3:00
 Novo Aripuanã - 120 km - 9:00
 Manicoré - 60 km - 3:30
 ## Integrantes
+
 Elizabeth Freitas
+
 Matheus Anverez
