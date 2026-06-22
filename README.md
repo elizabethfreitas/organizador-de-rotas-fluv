@@ -108,7 +108,8 @@ Revisão do código;
 Produção da documentação.
 
 ## Exemplo de Saída
-=== DESTINOS CADASTRADOS ===
+
+DESTINOS CADASTRADOS 
 
 Nova Olinda do Norte - 120 km - 12:00
 Axinim - 30 km - 2:30
@@ -116,5 +117,5 @@ Borba - 40 km - 3:00
 Novo Aripuanã - 120 km - 9:00
 Manicoré - 60 km - 3:30
 ## Integrantes
-Nome do Integrante 1
-Nome do Integrante 2
+Elizabeth Freitas
+Matheus Anverez
