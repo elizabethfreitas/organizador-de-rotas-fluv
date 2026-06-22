@@ -1,4 +1,4 @@
-# organizador-de-rotas-fluv
+# organizador-de-rotas-fluviais
 Organizador de rotas de entrega para barcos regionais utilizando listas, dicionários, funções e algoritmos de ordenação em Python.
 #  Organizador de Rotas de Entrega para Barcos Regionais
 ## Descrição
