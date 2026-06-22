@@ -31,7 +31,9 @@ Redução de custos operacionais;
 Melhor aproveitamento do tempo de viagem;
 Maior eficiência logística;
 Melhor atendimento às comunidades ribeirinhas.
-🛠 Tecnologias Utilizadas
+
+## Tecnologias Utilizadas
+
 Python 3
 GitHub
 Inteligência Artificial Generativa (ChatGPT) para apoio no desenvolvimento
@@ -56,7 +58,8 @@ Cada destino é representado por um dicionário contendo:
 Cidade
 Distância
 Tempo de viagem
-⚙ Funcionalidades
+
+Funcionalidades
 1. Listar Rota
 
 Exibe toda a sequência de cidades da rota fluvial.
@@ -116,6 +119,7 @@ Axinim - 30 km - 2:30
 Borba - 40 km - 3:00
 Novo Aripuanã - 120 km - 9:00
 Manicoré - 60 km - 3:30
+
 ## Integrantes
 
 Elizabeth Freitas
