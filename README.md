@@ -1,9 +1,9 @@
 # organizador-de-rotas-fluviais
-Organizador de rotas de entrega para barcos regionais utilizando listas, dicionários, funções e algoritmos de ordenação em Python.
+Organizador de rotas de entrega para barcos regionais do tipo ferry boat, utilizando listas, dicionários, funções e algoritmos de ordenação em Python.
 #  Organizador de Rotas de Entrega para Barcos Regionais
 ## Descrição
 
-Este projeto foi desenvolvido para auxiliar no planejamento logístico de entregas e viagens fluviais na região amazônica, utilizando como exemplo uma rota do Rio Madeira.
+Este projeto foi desenvolvido para auxiliar no planejamento logístico de entregas e viagens fluviais na região amazônica, utilizando como estudo de caso uma rota ao longo do Rio Madeira. O sistema considera um modelo de navegação realizado por ferry boat, permitindo a organização das rotas de forma eficiente por meio de recursos da linguagem Python.
 
 O sistema permite gerenciar comunidades e cidades, calcular distâncias e tempos de viagem, organizar destinos e simular atrasos causados por condições climáticas adversas.
 
@@ -37,6 +37,7 @@ Melhor atendimento às comunidades ribeirinhas.
 Python 3
 GitHub
 Inteligência Artificial Generativa (ChatGPT) para apoio no desenvolvimento
+Perplexity ai
 
 ##  Estruturas de Dados Utilizadas
 Lista
