@@ -125,6 +125,11 @@ Novo Aripuanã - 120 km - 9:00
 
 Manicoré - 60 km - 3:30
 
+## Links utilizados
+
+- [Rome2Rio](https://www.rome2rio.com/)
+- [Embarcação - Manicoré Comércio](https://manicorecomercio.com.br/embarcacao.php?id=38)
+
 ## Integrantes
 
 Elizabeth Freitas
